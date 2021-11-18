@@ -1,6 +1,6 @@
 ## Olá, que bom te ver por aqui! 👋
 
-- 👩‍💻 Desenvolvedora de software 
+- 👩‍💻 Desenvolvedora front-end 
 - 👩‍🎓 Formada em design
 - 🌱 Estudando React e Typescript 
 
