@@ -1,8 +1,9 @@
 ## Olá, que bom te ver por aqui! 👋
 
-- 👩‍💻 Desenvolvedora front-end 
-- 👩‍🎓 Formada em design
-- 🌱 Estudando React e Typescript 
+- 👩‍💻 Desenvolvedora front-end; 
+- 👩‍🎓 Formada em design;
+- 🌱 Estudando os frameworks Angular e React; 
+- 🌿 Me aperfeiçoando em HTML, CSS e JS. 
 
 ##  
 
