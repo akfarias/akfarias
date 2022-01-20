@@ -2,7 +2,7 @@
 
 - 👩‍💻 Desenvolvedora front-end; 
 - 👩‍🎓 Formada em design;
-- 🌱 Estudando os frameworks Angular e React; 
+- 🌱 Estudando Angular e ReactJS; 
 - 🌿 Me aperfeiçoando em HTML, CSS e JS. 
 
 ##  
