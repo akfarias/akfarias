@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://github.com/amandakehl">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=amandakehls&show_icons=true&theme=material-palenight&include_all_commits=false&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=amandakehl&show_icons=true&theme=material-palenight&include_all_commits=false&count_private=true"/>
    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandakehl&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
  
