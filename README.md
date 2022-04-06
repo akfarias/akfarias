@@ -1,28 +1,38 @@
-## Olá, que bom te ver por aqui! 👋
+## Olá, que bom te ver por aqui! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
-- 👩‍💻 Desenvolvedora front-end; 
-- 👩‍🎓 Formada em design;
-- 🌱 Estudando Angular e ReactJS; 
-- 🌿 Me aperfeiçoando em HTML, CSS e JS. 
+<br> 
 
-##  
+- Desenvolvedora front-end formada em design bacharel! 👩‍💻 
+- Estudando Angular e ReactJS;
+- Sempre aprendendo mais sobre HTML, CSS e JavaScript. 
 
+<a href="https://github.com/amandakehl">
+<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandakehl&layout=compact&langs_count=7&theme=vue-dark"/>
+
+<br>
+  
+## Tech stack
+  
+  <br>
+  
+<img src="https://img.shields.io/badge/Angular-2E7B8C?style=for-the-badge&logo=angular&logoColor=white">
+<img src="https://img.shields.io/badge/React-2E7B8C?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-2E7B8C?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-2E7B8C?style=for-the-badge&logo=typescript&logoColor=white">
+  <br>
+<img src="https://img.shields.io/badge/HTML-2E7B8C?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-2E7B8C?&style=for-the-badge&logo=css3&logoColor=white">
+  
+<br><br>
+  
+## Contato
+  <br>
+
+  [<img src="https://img.shields.io/badge/Gmail-45BF86?style=for-the-badge&logo=gmail&logoColor=white">](mailto:amandakehldefarias@gmail.com) [<img src="https://img.shields.io/badge/LinkedIn-45BF86?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/amandakehl/)         
+            
+ ##
+  
 <div align="center">
-  <a href="https://github.com/amandakehl">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=amandakehl&show_icons=true&theme=material-palenight&include_all_commits=false&count_private=true"/>
-   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandakehl&layout=compact&langs_count=7&theme=material-palenight"/>
-</div>
- 
-<div align="center">  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Amanda-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Amanda-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-  <img align="center" alt="Amanda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Amanda-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Amanda-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
-  <img align="center" alt="Amanda-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">  
-
+  
   ![Snake animation](https://github.com/amandakehl/amandakehl/blob/output/github-contribution-grid-snake.svg)
 </div>
-  
-  
