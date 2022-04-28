@@ -29,9 +29,10 @@
 
   [<img src="https://img.shields.io/badge/Gmail-45BF86?style=for-the-badge&logo=gmail&logoColor=white">](mailto:amandakehldefarias@gmail.com) [<img src="https://img.shields.io/badge/LinkedIn-45BF86?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/amandakehl/)         
             
- ##
-  
+
+  <!--
 <div align="center">
   
   ![Snake animation](https://github.com/amandakehl/amandakehl/blob/output/github-contribution-grid-snake.svg)
 </div>
+-->
