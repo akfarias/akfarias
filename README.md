@@ -1,4 +1,4 @@
-## Olá, que bom te ver por aqui! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+## Olá, que bom te ver por aqui! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="3%">
 
 <br> 
 
