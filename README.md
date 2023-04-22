@@ -2,9 +2,11 @@
 
 <br> 
 
-- Desenvolvedora front-end formada em design bacharel! 👩‍💻 
-- Estudando Angular e ReactJS;
-- Sempre aprendendo mais sobre HTML, CSS e JavaScript. 
+- Desenvolvedora front-end;
+- Designer bacharel; 👩‍💻 
+- Minha stack principal é Angular, mas também trabalho com ReactJS;
+- Experiência com testes unitários em Jest, testes de integração e2e com Cypress, acessibilidade, AWS e git;
+- Sempre buscando me aperfeiçoar nos assuntos relacionados a área. 
 
 <a href="https://github.com/amandakehl">
 <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandakehl&layout=compact&langs_count=7&theme=vue-dark"/>
